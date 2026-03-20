@@ -103,8 +103,9 @@ ecommerce-customer-analytics/
 │   ├── rfm_analysis.py
 │   └── main.py
 └── README.md
-
+```
 ---
+
 
 ## 🙌 Conclusion
 This project demonstrates end-to-end data analytics workflow from data cleaning to business insights and dashboard creation.
